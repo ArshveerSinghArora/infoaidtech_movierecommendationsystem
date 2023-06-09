@@ -3,6 +3,9 @@
 
 ## Movie Recommendation System
 Create a machine learning model that can recommend movies to users based on their preferences.
+In creating recommendation system, I have used collabrative filtering.
+
+Collabrative filtering - is a technique to recommend items to users based on their preferences and behavior.The basic assumption behind the algorithm is that users with similar interests have common preferences.
 
 ## Techonolgy Used -
 - Jupyter Notebook
