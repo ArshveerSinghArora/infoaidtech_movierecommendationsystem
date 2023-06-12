@@ -12,5 +12,20 @@ Collabrative filtering - is a technique to recommend items to users based on the
 - Python
 - Machine Learning
 
+## Steps -
+1. Loading the data
+2. Preprocessing & Cleaning the data
+3. Converting Dataframe into Pivot table
+4. Converting Pivot table into sparse matrix
+5. Train KNN model on sparse matrix
+6. Creating a function to get recommendations for a user
+7. Test the model by getting recommendations for a movie
+8. Calculating the mean absolute error and root mean squared error
+
+
 ## Video of it's full working
+
+Uploading Movie Recommendation System.mp4…
+
+
 
