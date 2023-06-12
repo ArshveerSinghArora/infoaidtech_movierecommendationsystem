@@ -25,7 +25,8 @@ Collabrative filtering - is a technique to recommend items to users based on the
 
 ## Video of it's full working
 
-Uploading Movie Recommendation System.mp4…
+https://github.com/ArshveerSinghArora/infoaidtech_movierecommendationsystem/assets/99716717/91a04925-3dde-462d-a764-8947ce9c8aa7
+
 
 
 
